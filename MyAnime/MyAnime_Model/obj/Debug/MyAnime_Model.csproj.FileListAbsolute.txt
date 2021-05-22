@@ -1,0 +1,70 @@
+C:\Users\lieve\OneDrive\Bureaublad\MyAnime\MyAnime\MyAnime_Model\bin\Debug\MyAnime_Model.exe.config
+C:\Users\lieve\OneDrive\Bureaublad\MyAnime\MyAnime\MyAnime_Model\bin\Debug\MyAnime_Model.exe
+C:\Users\lieve\OneDrive\Bureaublad\MyAnime\MyAnime\MyAnime_Model\bin\Debug\MyAnime_Model.pdb
+C:\Users\lieve\OneDrive\Bureaublad\MyAnime\MyAnime\MyAnime_Model\bin\Debug\EntityFramework.dll
+C:\Users\lieve\OneDrive\Bureaublad\MyAnime\MyAnime\MyAnime_Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lieve\OneDrive\Bureaublad\MyAnime\MyAnime\MyAnime_Model\bin\Debug\EntityFramework.xml
+C:\Users\lieve\OneDrive\Bureaublad\MyAnime\MyAnime\MyAnime_Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lieve\OneDrive\Bureaublad\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.csprojAssemblyReference.cache
+C:\Users\lieve\OneDrive\Bureaublad\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MainWindow.g.cs
+C:\Users\lieve\OneDrive\Bureaublad\MyAnime\MyAnime\MyAnime_Model\obj\Debug\App.g.cs
+C:\Users\lieve\OneDrive\Bureaublad\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model_MarkupCompile.cache
+C:\Users\lieve\OneDrive\Bureaublad\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model_MarkupCompile.lref
+C:\Users\lieve\OneDrive\Bureaublad\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MainWindow.baml
+C:\Users\lieve\OneDrive\Bureaublad\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.g.resources
+C:\Users\lieve\OneDrive\Bureaublad\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.Properties.Resources.resources
+C:\Users\lieve\OneDrive\Bureaublad\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.csproj.GenerateResource.cache
+C:\Users\lieve\OneDrive\Bureaublad\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.csproj.CoreCompileInputs.cache
+C:\Users\lieve\OneDrive\Bureaublad\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.csproj.CopyComplete
+C:\Users\lieve\OneDrive\Bureaublad\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.exe
+C:\Users\lieve\OneDrive\Bureaublad\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.pdb
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime_Model\bin\Debug\MyAnime_Model.exe.config
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime_Model\bin\Debug\MyAnime_Model.exe
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime_Model\bin\Debug\MyAnime_Model.pdb
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime_Model\bin\Debug\EntityFramework.dll
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime_Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime_Model\bin\Debug\EntityFramework.xml
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime_Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime_Model\obj\Debug\MainWindow.g.cs
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime_Model\obj\Debug\App.g.cs
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model_MarkupCompile.cache
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model_MarkupCompile.lref
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime_Model\obj\Debug\MainWindow.baml
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.g.resources
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.Properties.Resources.resources
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.csproj.GenerateResource.cache
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.csproj.CoreCompileInputs.cache
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.csproj.Fody.CopyLocal.cache
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.csproj.CopyComplete
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.exe
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.pdb
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.csprojAssemblyReference.cache
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\bin\Debug\MyAnime_Model.exe.config
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\bin\Debug\MyAnime_Model.exe
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\bin\Debug\MyAnime_Model.pdb
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\bin\Debug\EntityFramework.dll
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\bin\Debug\ImgurSharp.dll
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\bin\Debug\Newtonsoft.Json.dll
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\bin\Debug\System.Net.Http.Extensions.dll
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\bin\Debug\System.Net.Http.Primitives.dll
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\bin\Debug\EntityFramework.xml
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\bin\Debug\Newtonsoft.Json.xml
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\bin\Debug\System.Net.Http.Extensions.xml
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\bin\Debug\System.Net.Http.Primitives.xml
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.csproj.App.config
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MainWindow.g.cs
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\obj\Debug\App.g.cs
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model_MarkupCompile.cache
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model_MarkupCompile.lref
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MainWindow.baml
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.g.resources
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.Properties.Resources.resources
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.csproj.GenerateResource.cache
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.csproj.CoreCompileInputs.cache
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.csproj.Fody.CopyLocal.cache
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.csproj.CopyComplete
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.exe
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.pdb
+F:\2de jaar programmeren\gevorderd programmeren\ProjectWPF\MyAnime\MyAnime\MyAnime_Model\obj\Debug\MyAnime_Model.csprojAssemblyReference.cache
