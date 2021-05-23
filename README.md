@@ -1,1 +1,1 @@
-# myAnimeTracker
+# My Anime Tracker
