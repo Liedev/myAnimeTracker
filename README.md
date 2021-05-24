@@ -1,5 +1,5 @@
 # School Project Anime Tracker
-![](https://github.com/Liedev/mockUdemyInWPF/blob/main/udemyWpf.JPG)
+![](https://github.com/Liedev/myAnimeTracker/blob/main/myAnime.JPG)
 
 ## Language
 
