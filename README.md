@@ -15,5 +15,5 @@ A C# WPF code first mvvm approach project where you could document what Anime sh
 Following features where available:
 1. Login
 2. Admin/ User Area
-3. Admin could create, add, delete and adjust a show and episode of that show 
+3. Admin could create, add, delete and adjust a show or episode of that show 
 
